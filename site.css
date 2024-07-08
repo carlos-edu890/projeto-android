@@ -4,8 +4,8 @@
 
 @font-face {
     font-family: 'idroid';
-    src: url('../pacote-projeto-d010/fontes/idroid.otf') format('otf'),
-         url('../pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    src: url('fontes/idroid.otf') format('otf'),
+         url('fontes/idroid.otf') format('opentype');
 }
 
 /*
